@@ -7,4 +7,4 @@ then
   exit 1
 fi
 
-tr 'a-z' 'A-Z' < "$filename"  #tr means translate	
+tr 'a-z' 'A-Z' < "$filename"  #tr means translate
