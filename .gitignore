@@ -1,0 +1,19 @@
+# Ignore backup and temporary files
+*.swp
+*.swo
+*.bak
+*.tmp
+*~
+
+# Ignore compiled or executable shell script files
+*.out
+*.exe
+
+# Ignore logs and debug files
+*.log
+*.err
+*.trace
+
+# Ignore system-specific files (Windows/macOS/Linux)
+.DS_Store
+Thumbs.db
