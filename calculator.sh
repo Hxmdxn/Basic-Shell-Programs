@@ -13,5 +13,5 @@ case $ch in
 2)res=`echo $a - $b | bc`;;
 3)res=`echo $a \* $b | bc`;;
 4)res=`echo $a/$b | bc`;;
-esac
+esac  
 echo "Result : $res"

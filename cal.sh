@@ -1,3 +1,10 @@
+echo "Enter a year: "
+read year
+
+cal $year
+
+
+
 cal #current month
 cal 2019 #entire 2019
 cal 07 2018 #june of 2018

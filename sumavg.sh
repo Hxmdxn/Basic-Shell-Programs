@@ -1,8 +1,10 @@
 sum=0
-for i in $*
+for i in $* #command line
+
 do
 sum=`expr $sum + $i`
 done
-echo "Summation of "$#" no. is:"$sum"
+
+echo "Summation of $# numbers is $sum"
 avg=`expr $sum / $#`
-echo "avg: "$avg"
+echo "avg is : $avg"
