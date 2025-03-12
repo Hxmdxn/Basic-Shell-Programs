@@ -1,5 +1,0 @@
-3-tier payment gateway because bank claims 9 SAR + 4.4% of the amount
-
-git is version control sys - merging, trial and commit
-GitHub is a web based platform that hosts git repos - allows to share and collab with devs.
-
