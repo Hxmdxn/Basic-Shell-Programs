@@ -15,7 +15,6 @@ echo "mean of $a, $b, $c is $m"
 echo "std dev is $w"
 
 
-
  #variance is the avg. of squared deviations
  #sd is sq. root of variance
 

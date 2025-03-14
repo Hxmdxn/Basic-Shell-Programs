@@ -1,4 +1,4 @@
-echo "Enter a number: "
+echo "Enter a Number: "
 read n
 
 s=0
