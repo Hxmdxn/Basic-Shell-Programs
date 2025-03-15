@@ -10,4 +10,5 @@ do
 ans=`expr $ans \* $number`
 counter=`expr $counter + 1`
 done
+
 echo "$number to the power of $power is $ans"

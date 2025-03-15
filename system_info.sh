@@ -1,6 +1,6 @@
 now=$(date +"%d/%m/%y") #fetches date in DD/MM/YY format
 echo "current date: $now"
-now=$(date +%T) # fetches time (T)
+now=$(date +%T) #fetches time (T)
 echo "current time: $now"
 
 echo "now `who|wc -l` users are logged in to the system"  #"who" logged-in user and wc-l counts it, wc stands for word count and -l means for line

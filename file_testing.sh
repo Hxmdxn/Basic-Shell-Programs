@@ -16,9 +16,3 @@ file=$1   #command line argument
 [ -g "$file" ] && echo "$file is a setgid file" || echo "$file isn't a setgid file"
 [ -k "$file" ] && echo "$file has the sticky bit set" || echo "$file doesn't have the sticky bit set"
 
-
-
-
-
-
-
