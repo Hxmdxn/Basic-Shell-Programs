@@ -1,7 +1,7 @@
 source_file="$1" #command line arguments
 destination_file="$2"
 
-if [ -f "$destination_file" ] #f stands for file or not
+if [ -f "$destination_file" ] #f stands for file
 then
 echo "Destination file '$destination_file' already exists"
 exit
